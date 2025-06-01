@@ -13,10 +13,18 @@ The project utilizes:
 - Logging for console output and diagnostics
 - HTTP Resilience for network communication
 
-## Prerequisites
+## Getting Started
+
+### Prerequisites
 
 - .NET 9 SDK (9.0.300 or later)
 - Visual Studio 2022 or VS Code
+
+### Project Location
+
+**Note:** This ChatApp has been moved and integrated into the [ModernWeb solution](https://github.com/pstackebrandt/ModernWeb) where it works alongside other ASP.NET Core and Blazor projects. For the integrated version and to see how ChatApp interacts with web components, visit the ModernWeb repository.
+
+This repository's future development status is uncertain. While the main implementation has moved to the ModernWeb solution, this repository may still be used for experimental features or extended versions of the ChatApp.
 
 ## Installation
 
